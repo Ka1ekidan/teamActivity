@@ -1,0 +1,10 @@
+p{
+    color: Olive;
+}
+a{
+    color: blue;
+}
+nav a{
+    color: red;
+    font-weight: bold;
+}
